@@ -1,125 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63dfe0c2-0b93-4a3e-9aeb-2dfbb87ac62c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="63dfe0c2-0b93-4a3e-9aeb-2dfbb87ac62c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01xor/二进制小数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01xor/唯一单独的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01xor/唯一成对的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01xor/奇偶位互换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01xor/找1的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02searchAndSort/小白上楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02searchAndSort/希尔排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03sort/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第一题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第七题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第三题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第九题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第五题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第八题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第六题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第十题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题/第四题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第一题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第七题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第三题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第五题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第八题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第六题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13真题复习/第四题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第一题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第七题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第三题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第九题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第五题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第八题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第六题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第十题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14真题/第四题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第一题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第七题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第三题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第二题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第五题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第六题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15真题/第四题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2020第一场/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2020第一场/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2020第一场/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_十六进制转十进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_字母图形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_小数第n位.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_数字三角.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_素因子去重.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_胡桃的数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_五月复习题/_闰年判断.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiaobei/B2013/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiaobei/B2013/B2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiaobei/META-INF/lanqiaobei.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lanqiaobei/demo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lanqiaobei/demo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B2013/B1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B2013/B2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four_day/NiMuDui.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/four_day/TianPing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demo/Syntax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/two_day/DiGui2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/two_day/DiGui.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/two_day/Digui3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B2013/B1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/B2013/B2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/three_day/DaJiMu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/three_day/MQiuQuNGe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -129,140 +102,59 @@
       <find>toCharArray</find>
       <find>4</find>
       <find>insertElement</find>
+      <find>divide</find>
+      <find>m</find>
     </findStrings>
     <replaceStrings>
       <replace>a</replace>
       <replace>insertElementAt</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>E:\IDEA\workspace\lanqiaobei\src</dir>
+    </dirStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ZhiChuXianYiCi.java" />
-        <option value="$PROJECT_DIR$/src/LiangShuZhiHe.java" />
-        <option value="$PROJECT_DIR$/src/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/LengthOfLongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/FindMedianSortedArrays.java" />
-        <option value="$PROJECT_DIR$/src/Reverse.java" />
-        <option value="$PROJECT_DIR$/src/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/RomanToInt.java" />
-        <option value="$PROJECT_DIR$/src/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/IsValid.java" />
-        <option value="$PROJECT_DIR$/src/MergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/RemoveElement.java" />
-        <option value="$PROJECT_DIR$/src/StrStr.java" />
-        <option value="$PROJECT_DIR$/src/date1_6/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/date1_6/CircleArea.java" />
-        <option value="$PROJECT_DIR$/src/date1_6/Nine.java" />
-        <option value="$PROJECT_DIR$/src/date1_6/Age.java" />
-        <option value="$PROJECT_DIR$/src/one/Age.java" />
-        <option value="$PROJECT_DIR$/src/one_day/two_day/twoAdd.java" />
-        <option value="$PROJECT_DIR$/src/two_day/twoAdd.java" />
-        <option value="$PROJECT_DIR$/src/two_day/System_out.java" />
-        <option value="$PROJECT_DIR$/src/three_day/Anit.java" />
-        <option value="$PROJECT_DIR$/src/three_day/QuanPaiLie.java" />
-        <option value="$PROJECT_DIR$/src/three_day/QuanPaiLie2.java" />
-        <option value="$PROJECT_DIR$/src/three_day/DaJiMu.java" />
-        <option value="$PROJECT_DIR$/src/three_day/MQiuQuNGe.java" />
-        <option value="$PROJECT_DIR$/src/three_day/ZuHe.java" />
-        <option value="$PROJECT_DIR$/src/three_day/ZuHe2.java" />
-        <option value="$PROJECT_DIR$/src/four_day/TianPing.java" />
-        <option value="$PROJECT_DIR$/src/four_day/NiMuDui.java" />
-        <option value="$PROJECT_DIR$/src/one_day/Age.java" />
-        <option value="$PROJECT_DIR$/src/two_day/Nichar.java" />
-        <option value="$PROJECT_DIR$/src/demo/BufferedReadAndBufferedWriter.java" />
-        <option value="$PROJECT_DIR$/src/demo/Vector.java" />
-        <option value="$PROJECT_DIR$/src/demo/Test.java" />
-        <option value="$PROJECT_DIR$/src/HashMap.java" />
-        <option value="$PROJECT_DIR$/src/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/Hash/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/one_day/LuoMa.java" />
-        <option value="$PROJECT_DIR$/src/demo/VectorDemo.java" />
-        <option value="$PROJECT_DIR$/src/one_day/Exam1.java" />
-        <option value="$PROJECT_DIR$/src/one_day/Exam2.java" />
-        <option value="$PROJECT_DIR$/src/two_day/DiGui.java" />
-        <option value="$PROJECT_DIR$/src/two_day/DiGui2.java" />
-        <option value="$PROJECT_DIR$/src/demo/Syntax.java" />
-        <option value="$PROJECT_DIR$/src/two_day/Digui3.java" />
-        <option value="$PROJECT_DIR$/src/B2013/B1.java" />
-        <option value="$PROJECT_DIR$/src/B2013/B2.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="210" />
-    <option name="y" value="85" />
-    <option name="width" value="1400" />
-    <option name="height" value="880" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="lanqiaobei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiaobei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lanqiaobei" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lanqiaobei" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1aDDUkCG6dNBJf1ry1gF5mkFvU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot_mybatis_plus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="three_day" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
-  <component name="RunManager" selected="Application.B2">
-    <configuration name="B1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2013.B1" />
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2020第一场.Four" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B2013.*" />
+          <option name="PATTERN" value="_2020第一场.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2013.B2" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2020第一场.One" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B2013.*" />
+          <option name="PATTERN" value="_2020第一场.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Digui3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="two_day.Digui3" />
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2020第一场.Two" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="two_day.*" />
+          <option name="PATTERN" value="_2020第一场.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuanPaiLie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="three_day.QuanPaiLie2" />
+    <configuration name="第四题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题复习.第四题" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="three_day.*" />
+          <option name="PATTERN" value="_13真题复习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +201,415 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Syntax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Syntax" />
+    <configuration name="第八题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第八题" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第七题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第七题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第八题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题复习.第八题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题复习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第一题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第一题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第二题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第二题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="奇偶位互换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01xor.奇偶位互换" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01xor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第三题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第三题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第四题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第四题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第四题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第四题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第六题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第十题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第十题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第九题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第九题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二进制小数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01xor.二进制小数" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01xor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第七题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第七题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第一题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第一题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第七题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第七题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第三题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第三题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第五题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题复习.第五题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题复习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第一题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第一题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="唯一单独的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01xor.唯一单独的数" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01xor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="希尔排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02searchAndSort.希尔排序" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02searchAndSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第六题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第二题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第二题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第五题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第五题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第六题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_闰年判断" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._闰年判断" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_数字三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._数字三角" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_十六进制转十进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._十六进制转十进制" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._杨辉三角" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_字母图形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._字母图形" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_胡桃的数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._胡桃的数量" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_小数第n位" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_五月复习题._小数第n位" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_五月复习题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +619,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B2" />
-        <item itemvalue="Application.B1" />
-        <item itemvalue="Application.Digui3" />
-        <item itemvalue="Application.Syntax" />
-        <item itemvalue="Application.QuanPaiLie2" />
+        <item itemvalue="Application.Four" />
+        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application._小数第n位" />
+        <item itemvalue="Application._闰年判断" />
       </list>
     </recent_temporary>
   </component>
@@ -373,323 +668,134 @@
       <workItem from="1580014847907" duration="7522000" />
       <workItem from="1580097045601" duration="972000" />
       <workItem from="1580269789761" duration="18000" />
-      <workItem from="1580615155019" duration="4672000" />
+      <workItem from="1580615155019" duration="5862000" />
+      <workItem from="1581737794791" duration="11650000" />
+      <workItem from="1581821585528" duration="4011000" />
+      <workItem from="1581902100131" duration="6759000" />
+      <workItem from="1581990097754" duration="1336000" />
+      <workItem from="1582120427840" duration="1583000" />
+      <workItem from="1582161205214" duration="1798000" />
+      <workItem from="1582339249627" duration="1449000" />
+      <workItem from="1582945496198" duration="1692000" />
+      <workItem from="1585451626155" duration="14187000" />
+      <workItem from="1585534906604" duration="1609000" />
+      <workItem from="1585621555181" duration="2449000" />
+      <workItem from="1585656337725" duration="3543000" />
+      <workItem from="1585664026849" duration="1285000" />
+      <workItem from="1585707560480" duration="8410000" />
+      <workItem from="1585742511743" duration="4008000" />
+      <workItem from="1585809300852" duration="8558000" />
+      <workItem from="1585876095959" duration="1776000" />
+      <workItem from="1585921488600" duration="2423000" />
+      <workItem from="1586048631630" duration="8097000" />
+      <workItem from="1586064795702" duration="9579000" />
+      <workItem from="1586093061532" duration="602000" />
+      <workItem from="1586139194846" duration="2901000" />
+      <workItem from="1586154637714" duration="221000" />
+      <workItem from="1586221790560" duration="10138000" />
+      <workItem from="1586236741719" duration="172000" />
+      <workItem from="1586261291841" duration="1983000" />
+      <workItem from="1587801023185" duration="2171000" />
+      <workItem from="1588733990036" duration="1037000" />
+      <workItem from="1590894416244" duration="8917000" />
+      <workItem from="1590925603951" duration="4418000" />
+      <workItem from="1590979153506" duration="1201000" />
+      <workItem from="1591066230450" duration="1249000" />
+      <workItem from="1591233610930" duration="90000" />
+      <workItem from="1591852950496" duration="456000" />
+      <workItem from="1592101076117" duration="1900000" />
+      <workItem from="1595388223412" duration="3744000" />
+      <workItem from="1595418067427" duration="4952000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112853000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13538875" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41499332" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31860778" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ZhiChuXianYiCi.java" />
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSum.java" />
-    <entry file="file://$PROJECT_DIR$/src/LengthOfLongestSubstring.java" />
-    <entry file="file://$PROJECT_DIR$/src/FindMedianSortedArrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/Reverse.java" />
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoLists.java" />
-    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicates.java" />
-    <entry file="file://$PROJECT_DIR$/src/RemoveElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/StrStr.java" />
-    <entry file="file://$PROJECT_DIR$/src/IsPalindrome.java" />
-    <entry file="file://$PROJECT_DIR$/src/RomanToInt.java" />
-    <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java" />
-    <entry file="file://$PROJECT_DIR$/src/IsValid.java" />
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9284">
-          <caret line="460" column="19" selection-start-line="460" selection-start-column="19" selection-end-line="460" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/two_day.java" />
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13376">
-          <caret line="659" selection-start-line="659" selection-end-line="659" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two_day/Nichar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Vector.java" />
-    <entry file="file://$PROJECT_DIR$/src/three_day/Anit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="2" selection-start-line="5" selection-start-column="21" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/ZuHe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/BufferedReadAndBufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hash/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/Age.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/CircleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="38" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/Nine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/VectorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/Exam1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/Exam2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/one_day/LuoMa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two_day/System_out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_191/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/QuanPaiLie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/QuanPaiLie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/ZuHe2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/four_day/NiMuDui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/four_day/TianPing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Syntax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two_day/DiGui2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two_day/DiGui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/DaJiMu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/three_day/MQiuQuNGe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/two_day/Digui3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B2013/B1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B2013/B2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1592101817884">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592101817884" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1595425667005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595425667005" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1595425667005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595425667005" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1595425667005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595425667005" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1595425667005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595425667005" />
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom" timestamp="1595425663416">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595425663416" />
+    <state width="1493" height="214" key="GridCell.Tab.1.center" timestamp="1595425663415">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1595425663415" />
+    <state width="1493" height="214" key="GridCell.Tab.1.left" timestamp="1595425663415">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1595425663415" />
+    <state width="1493" height="214" key="GridCell.Tab.1.right" timestamp="1595425663415">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1595425663415" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595418069102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595418069102" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1590896782338">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1590896782338" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_2020第一场/Four.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_2020第一场/Four.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
