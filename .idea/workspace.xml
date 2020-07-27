@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63dfe0c2-0b93-4a3e-9aeb-2dfbb87ac62c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2020第一场/Nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2020第一场/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2018真题/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2018真题/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2018真题/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +88,13 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.Nine">
-    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2020第一场.Eight" />
+  <component name="RunManager" selected="Application.C">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2018真题.B" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_2020第一场.*" />
+          <option name="PATTERN" value="_2018真题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +102,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2020第一场.Five" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2018真题.C" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2018真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2020第一场.Eight" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
@@ -133,136 +147,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_2020第一场.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_2020第一场.Six" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_2020第一场.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第七题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15真题.第七题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_15真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14真题.第六题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第八题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13真题复习.第八题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_13真题复习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第一题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14真题.第一题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第二题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14真题.第二题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="奇偶位互换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01xor.奇偶位互换" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01xor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第三题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_15真题.第三题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_15真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第四题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_14真题.第四题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_14真题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="第十题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13真题.第十题" />
-      <module name="lanqiaobei" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_13真题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,6 +285,19 @@
       </method>
     </configuration>
     <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第六题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第六题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_15真题.第六题" />
       <module name="lanqiaobei" />
       <extension name="coverage">
@@ -452,12 +349,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_五月复习题._杨辉三角" />
+    <configuration name="第八题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题复习.第八题" />
       <module name="lanqiaobei" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_五月复习题.*" />
+          <option name="PATTERN" value="_13真题复习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第一题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第一题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第二题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第二题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="奇偶位互换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01xor.奇偶位互换" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01xor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第三题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15真题.第三题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_15真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第四题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_14真题.第四题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_14真题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第十题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13真题.第十题" />
+      <module name="lanqiaobei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13真题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,11 +468,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.Nine" />
         <item itemvalue="Application.Eight" />
         <item itemvalue="Application.Seven" />
-        <item itemvalue="Application.Six" />
-        <item itemvalue="Application.Five" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +557,8 @@
       <workItem from="1595418067427" duration="6373000" />
       <workItem from="1595469969955" duration="5192000" />
       <workItem from="1595559021441" duration="5996000" />
-      <workItem from="1595643008156" duration="4162000" />
+      <workItem from="1595643008156" duration="5318000" />
+      <workItem from="1595817742104" duration="3541000" />
     </task>
     <servers />
   </component>
@@ -603,42 +579,42 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592101817884" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595647746467">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595647746467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595647746467">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595647746467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595647746467">
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595647746467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595647746467">
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595647746467" />
-    <state width="1493" height="214" key="GridCell.Tab.1.bottom" timestamp="1595645350137">
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595645350137" />
-    <state width="1493" height="214" key="GridCell.Tab.1.center" timestamp="1595645350137">
+    <state width="1493" height="214" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.1.center" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1595645350137" />
-    <state width="1493" height="214" key="GridCell.Tab.1.left" timestamp="1595645350137">
+    <state width="1493" height="214" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.1.left" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1595645350137" />
-    <state width="1493" height="214" key="GridCell.Tab.1.right" timestamp="1595645350137">
+    <state width="1493" height="214" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state width="1493" height="214" key="GridCell.Tab.1.right" timestamp="1595655452619">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1595645350137" />
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595643171256">
+    <state width="1493" height="214" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1595655452619" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595817874744">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595643171256" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595817874744" />
     <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595477138121">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
